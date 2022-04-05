@@ -1,4 +1,4 @@
-# UT-Department-of-Data-Statistics-Research-Porject-Documents-Fall-2021-
+# UT-Department-of-Data-Statistics-Research-Project-Documents-Fall-2021-
 All of the related files to my Fall 2021 Research
 
 COPYRIGHT AND FAIR USE
